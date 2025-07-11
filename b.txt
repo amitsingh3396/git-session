@@ -1,2 +1,2 @@
 Some text in file b
-Hello
+Bye
