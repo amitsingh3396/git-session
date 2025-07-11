@@ -1,1 +1,3 @@
-Some text in a
+This is out git session.
+This is text in branch1.
+
