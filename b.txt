@@ -1,2 +1,3 @@
 Some text in file b
 Bye
+I fixed the bug
